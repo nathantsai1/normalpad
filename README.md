@@ -80,7 +80,7 @@ From top to bottom
 ![side_short](./src/side_short.png)
 
 ## Bill of Materials
-Also see [here](./BOM.md)
+Also see [here](./BOM.csv)
 |mfg name|	            Description|	        Price|	shipping|	total|
 | ---|                          ---|              ---|      ---|     ---|
 |ALIEXPRESS|	        [keycap set + welcome deal](https://www.aliexpress.us/item/3256803996370867.html?spm=a2g0o.productlist.main.10.ced79Pkf9PkfdZ&algo_pvid=a2de231f-765f-412a-a354-46d2371350f9&algo_exp_id=a2de231f-765f-412a-a354-46d2371350f9-8&pdp_ext_f=%7B%22order%22%3A%22214%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%2126.29%214.40%21%21%2126.29%214.40%21%402101effb17511676367448407e122c%2112000040004000451%21sea%21US%216232956933%21ABX&curPageLogUid=FugDeouIzmlh&utparam-url=scene%3Asearch%7Cquery_from%3A)|	            7.23|	0.66|	    7.89
@@ -93,12 +93,7 @@ Also see [here](./BOM.md)
 |DIGIKEY|	            [pin header 1x40](https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/G800W268018EU/17083164)|	    0.8|	0|	        0.8
 |DIGIKEY|	            taxes+shipping|	        1.57|	4.99|	    6.56
 |MECHANICALKEYBOARD|    [hot swap(90)](https://mechanicalkeyboards.com/products/kailh-switch-hot-swap-socket?variant=47416807194924&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoruURlelfrpmfJ8_fzQfVlDKn0sQPwv330_qSdwBIp1Pz0PDX6dojQ&gQT=1)|	        9.9|   	5.8|	    15.7
-
-Subtotal: $74.34
-
-Shipping: 18.62
-
-Total: $92.96
+|Total| |84.34| 18.62 | 92.96|
 
 *PCB, and CAD case design not included
 
