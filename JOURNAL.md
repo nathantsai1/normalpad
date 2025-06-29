@@ -27,6 +27,8 @@ Time: ~2-3 Hours
 ## June 26th: Frantically checking shipping prices
 I had forgot about CAD shipping until yesterday. I haven't used USPS before, but I checked their website to see how much shipping would cost. It took a while to find their Priority Mail page where I found it would cost around $10.75 for shipping. I'm still hesitant on that number, though, as the package could be bigger than expected or the mail people might upcharge. Otherwise, it should be fine. The most annoying part, though, was trying to convert the keyboard dimensions from mm to inches, where I used a number converter. I kept forgetting the numbers as there were too many and I guessed some of them(4 - length, width, height, and weight)
 
+Trying to sift through a bunch of words I don't understand. I figured out what the zones meant though, and that my package might cost more than the average CAD design.
+![usps](./src/usps.png)
 Time ~1-2 hours
 
 ## June 27th: Finishing up project
@@ -43,6 +45,8 @@ The amount of pictures I added to the README(excluding ~5 pictures)
 ## June 28th: Billing issues
 Originally, I had planned to get a lot of parts from Amazon as the prices were actually and looked more reliable than Aliexpress. However, I had seen that they had charged me $20 in unknown price fees, shipping not included. I took a while trying to source parts from different sources than Amazon, which actually was annoying as I wanted to lower the price but keep the quality of my products. Sadly, I took out my durock silent t1 shrimps key switch from the BOM to lower the overall cost. The switches and stabilizers went from MechanicalKeyboards to Milktooth to Aliexpress and a few more. I wasn't happy with Amazon, as they hid their end prices(price with tax and shipping), so nothing on the BOM is from them. 
 
+I added the keycaps to show the final project, which took a lot of time
+![final project](./src/assembled_top.png)
 Other than that, I checked the Highway submission guidelines and cleaned up the project
 
 Time: 3-5 hours
