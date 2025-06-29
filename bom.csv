@@ -1,0 +1,18 @@
+mfg name,Description,Price,shipping,total
+ALIEXPRESS,keycap set,7.23,0.66,7.89
+ALIEXPRESS,keyswitch(90),25.17,0,25.17
+ALIEXPRESS,taxes,3.37,0,3.37
+,,,,
+NOVELKEYS,stabilizer,15,7.17,22.17
+,,,,
+DIGIKEY,bolts(2Mx0.4 - 8mm*18),1.76,0,1.76
+DIGIKEY,diode(84),4.54,0,4.54
+DIGIKEY,Raspberry pi pico w/o header,5,0,5
+DIGIKEY,pin header 1x40,0.8,,0.8
+DIGIKEY,"total(tariff+tax, shipping)",1.57,4.99,6.56
+,,,,
+JLCPCB,pcb,20.9,15.23,36.13
+,,,,
+CAD CASE,cad case abt,,12,12
+,,,,
+MECHANICAL KEYBOARD,hot swap(90),9.9,5.8,15.7
