@@ -1,6 +1,13 @@
+---
+title: "NormalPad"
+author: "Nathan Tsai"
+description: "A 75% Keyboard w/82 silent tactile switches"
+created_at: "2024-12-24"
+---
+
 | title | Author | description | created_at |
 |--|--|--|--|
-| NormalPad | Nathan Tsai | A 75% Keyboard w/82 Silent tactile switches | 2024-12-26|
+| NormalPad | Nathan Tsai | A 75% Keyboard w/82 Silent tactile switches | 2024-12-24|
 
 Time spent: ~30-40 hours total
 
