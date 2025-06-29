@@ -72,7 +72,7 @@ From top to bottom
 
 ![Assembled case](./src/together.png)
 ![Bottom assembled](./src/normal_bottom.png)
-![Top assembled](./SRC/assembled_top.png)
+![Top assembled](./src/assembled_top.png)
 
 <b>Side analysis of case</b>
 
@@ -95,7 +95,11 @@ Also see [here](./BOM.md)
 |MECHANICALKEYBOARD|    [hot swap(90)](https://mechanicalkeyboards.com/products/kailh-switch-hot-swap-socket?variant=47416807194924&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoruURlelfrpmfJ8_fzQfVlDKn0sQPwv330_qSdwBIp1Pz0PDX6dojQ&gQT=1)|	        9.9|   	5.8|	    15.7
 
 Subtotal: $74.34
+
 Shipping: 18.62
+
 Total: $92.96
+
 *PCB, and CAD case design not included
+
 *PRICES IN USD
