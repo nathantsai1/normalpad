@@ -57,3 +57,8 @@ I added the keycaps to show the final project, which took a lot of time
 Other than that, I checked the Highway submission guidelines and cleaned up the project
 
 Time: 3-5 hours
+
+## July 1st: fixing problems
+I changed the bottom cad design, the BOM and added the pcb step files to the cad folder
+![monkey design](./src/back_design.png)
+Time: 1-2 hours

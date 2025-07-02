@@ -44,22 +44,35 @@ I primarily started this for [HackPad v2](https://hackpad.hackclub.com/keyboard)
 ## Pictures of my design:
 ### Schematic:
 <b>My diagram, which depicts the row and column numbers</b>
+
 ![diagram](./src/diagram.png)
 
 <b>The schematic for the pcb, relatively organized in the order wanted</b>
+
 ![schematic](./src/schem.png)
 
 ### PCB
 <b>My PCB</b>
+
 ![schematic](./src/pcb.png)
+
+<b>PCB back</b>
+
+![pcb back](./src/pcb_back.png)
+
+<b>PCB front (w/key switch side)</b>
+
+![pcb front](./src/pcb_front.png)
 
 ### CAD Case(Disassembled)
 From top to bottom 
 
 <b>Top plate</b>
+
 ![Top Plate](./src/top_plate.png)
 
 <b>Plate</b>
+
 ![Plate](./src/plate.png)
 
 <b>Bottom</b>
@@ -78,6 +91,10 @@ From top to bottom
 
 ![side_long](./src/side_long.png)
 ![side_short](./src/side_short.png)
+
+<b>sketch of monkey added to project</b>
+
+![back_design](./src/back_design.png)
 
 ## Bill of Materials
 Also see [here](./BOM.csv)
