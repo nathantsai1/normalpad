@@ -83,18 +83,19 @@ From top to bottom
 
 <b>Assembled case</b>
 
-![Assembled case](./src/together.png)
 ![Bottom assembled](./src/normal_bottom.png)
 ![Top assembled](./src/assembled_top.png)
+![Top assembled](./src/assembledtop.png)
 
 <b>Side analysis of case</b>
 
 ![side_long](./src/side_long.png)
 ![side_short](./src/side_short.png)
 
-<b>sketch of monkey added to project</b>
+<b>sketch of monkey/face added to project</b>
 
 ![back_design](./src/back_design.png)
+![back_design](./src/face.png)
 
 ## Bill of Materials
 Also see [here](./BOM.csv)
