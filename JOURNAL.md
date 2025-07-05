@@ -62,3 +62,8 @@ Time: 3-5 hours
 I changed the bottom cad design, the BOM and added the pcb step files to the cad folder
 ![monkey design](./src/back_design.png)
 Time: 1-2 hours
+
+## July 5: fix problems
+added more designs
+![monkey design](./src/design3.png)
+![monkey design](./src/pcb_front.png)

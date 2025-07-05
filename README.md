@@ -92,10 +92,12 @@ From top to bottom
 ![side_long](./src/side_long.png)
 ![side_short](./src/side_short.png)
 
-<b>sketch of monkey/face added to project</b>
+<b>sketch of designsadded to project</b>
+in order: back case, front case, front pcb
 
-![back_design](./src/back_design.png)
+![back_design](./src/design3.png)
 ![back_design](./src/face.png)
+![back_design](./src/pcb_front.png)
 
 ## Bill of Materials
 Also see [here](./BOM.csv)
