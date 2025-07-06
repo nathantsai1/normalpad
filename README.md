@@ -85,7 +85,6 @@ From top to bottom
 
 ![Bottom assembled](./src/normal_bottom.png)
 ![Top assembled](./src/assembled_top.png)
-![Top assembled](./src/assembledtop.png)
 
 <b>Side analysis of case</b>
 
