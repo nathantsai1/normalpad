@@ -117,5 +117,6 @@ Also see [here](./BOM.csv)
 |DIGIKEY|	            [diode(84)](https://www.digikey.com/en/products/detail/comchip-technology/1N4001-G/1979654)|	            4.54|	0|	        4.54| |
 |DIGIKEY|	            total(tariff+tax, shipping)|	        1.57|	4.99|	    6.56| |
 |CAD CASE|	            cad case|	                |	|	        5.51| |
-
+Total (with case and PCB): 133.02
+Total (without case and PCB) 89.48
 *PRICES IN USD
