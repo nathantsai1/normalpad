@@ -67,3 +67,8 @@ Time: 1-2 hours
 added more designs
 ![monkey design](./src/design3.png)
 ![monkey design](./src/pcb_front.png)
+
+## July 8th: Ordering parts
+I started ordering parts. However, I realized that the stabilizers were more expensive than previously though and so I had to change both the stabilizers and the store as the one I had in mind was sold out on the original website and also more expensive on every single other. 
+While ordering my stabilizers, the order was reversed. 3 times. I ended up ordering the Durock stabilizers from Mechanical Keyboards.
+I also updated the BOMs for more accuracy
