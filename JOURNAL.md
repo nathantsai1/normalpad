@@ -72,3 +72,4 @@ added more designs
 I started ordering parts. However, I realized that the stabilizers were more expensive than previously though and so I had to change both the stabilizers and the store as the one I had in mind was sold out on the original website and also more expensive on every single other. 
 While ordering my stabilizers, the order was reversed. 3 times. I ended up ordering the Durock stabilizers from Mechanical Keyboards.
 I also updated the BOMs for more accuracy
+Time: 2-4 hours
