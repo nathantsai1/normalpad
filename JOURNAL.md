@@ -73,3 +73,10 @@ I started ordering parts. However, I realized that the stabilizers were more exp
 While ordering my stabilizers, the order was reversed. 3 times. I ended up ordering the Durock stabilizers from Mechanical Keyboards.
 I also updated the BOMs for more accuracy
 Time: 2-4 hours
+
+## 11/22/25: everything but sped up
+I forgot to log for the past few months bc everything was really slow. I got all the parts, but realized the hole in the case wasn't the size I wanted. I tried to get some screws from Aliexpress (never arrived) and now am wondering whether I should get 50 from Digikey rn. 
+I also soldered everything together, which was a pain. I soldered some in the wrong directin, and one of them wasn't soldered.
+The software came along nicely, so the keyboard registers a click and can assign it the right letter. I haven't put on the keycaps yet. I had to use anthropic to debug that I was using high/low pins and not input_pullup/input / output, and switched the rows and columns.
+Overall, I'm happy to see how this turned out, my CAD design looks finished, and that it seems like a good build to build. 
+Time:12-24 hours
